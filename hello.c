@@ -6,5 +6,6 @@ int main()
   int a=1 
   int b=2
   int a+b=3
+  int c=3
   return 0;
 } 
